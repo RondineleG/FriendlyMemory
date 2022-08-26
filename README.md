@@ -1,1 +1,1 @@
-# friendly-memory
+# FriendlyMemory
